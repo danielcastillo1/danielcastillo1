@@ -1,3 +1,4 @@
+background: azure;
 <h1 align="center">Hi 👋, I'm Daniel Castillo</h1>
 <h3 align="center">A passionate frontend developer from Bryan, Texas</h3>
 
