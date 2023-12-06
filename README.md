@@ -6,15 +6,13 @@ background: azure;
 
 - 🔭 I’m currently working on **spotify clone**
 
-- 🌱 I’m currently learning **python, vue**
+- 🌱 I’m currently learning **python, vue, Firebase, Recoil**
 
 - 👯 I’m looking to collaborate on **Open projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielcastillo1](https://github.com/danielcastillo1)
 
-- 💬 Ask me about **Javascript, React**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1uq6TxDxoTHIHQ1G-zl3LornyF9KhIoDRExBdJOAlaIY/edit](https://docs.google.com/document/d/1uq6TxDxoTHIHQ1G-zl3LornyF9KhIoDRExBdJOAlaIY/edit)
+- 💬 Ask me about **Javascript, React, Node, Express**
 
 - ⚡ Fun fact **I'm always up for a debate on the best Hogwarts house.**
 
